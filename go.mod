@@ -10,7 +10,7 @@ require (
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
 	github.com/bep/goat v0.5.0
-	github.com/bep/godartsass v0.15.0
+	github.com/bep/godartsass v0.16.0
 	github.com/bep/golibsass v1.1.0
 	github.com/bep/gowebp v0.2.0
 	github.com/bep/overlayfs v0.6.0
@@ -19,11 +19,11 @@ require (
 	github.com/cli/safeexec v1.0.0
 	github.com/disintegration/gift v1.2.1
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.15.15
+	github.com/evanw/esbuild v0.15.18
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.14.4
 	github.com/fsnotify/fsnotify v1.6.0
-	github.com/getkin/kin-openapi v0.109.0
+	github.com/getkin/kin-openapi v0.110.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.3.0
 	github.com/gobwas/glob v0.2.3
@@ -63,7 +63,7 @@ require (
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 	golang.org/x/net v0.2.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.5.0
 	golang.org/x/tools v0.3.0
 	google.golang.org/api v0.76.0
 	gopkg.in/yaml.v2 v2.4.0
